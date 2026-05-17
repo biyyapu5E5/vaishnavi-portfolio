@@ -1,4 +1,4 @@
-const NAV_SECTION_IDS = ['about', 'skills', 'projects', 'internships', 'certifications', 'contact'];
+const NAV_SECTION_IDS = ['about', 'education', 'skills', 'projects', 'internships', 'certifications', 'contact'];
 const navLinks = document.querySelectorAll('header nav a[href^="#"]');
 
 function getActiveSectionId() {
