@@ -1449,7 +1449,7 @@ body.card-modal-open {
 }
 
 .card-modal__close:focus-visible {
-  outline: 2px solid rgba(255, 255, 255, 0.9);
+  /* outline: 2px solid rgba(255, 255, 255, 0.9); */
   outline-offset: 2px;
 }
 
